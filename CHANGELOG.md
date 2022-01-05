@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lahaxearnaud/healthcheck-redis/compare/v1.0.0...v1.0.1) (2022-01-05)
+
+
+### Bug Fixes
+
+* **deps:** Force release ([18808f7](https://github.com/lahaxearnaud/healthcheck-redis/commit/18808f78509443ae72c9982febbe0080e23923dc))
+
 # 1.0.0 (2022-01-02)
 
 
