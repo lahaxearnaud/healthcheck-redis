@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/lahaxearnaud/healthcheck-redis/compare/v1.0.1...v2.0.0) (2023-11-29)
+
+
+### Features
+
+* Support symfony 7 ([7117ec0](https://github.com/lahaxearnaud/healthcheck-redis/commit/7117ec09a0f4e9551aa5052cbc5eb61dbbd68fbb))
+
+
+### BREAKING CHANGES
+
+* Drop SF 5.4 and PHP < 8.2
+
 ## [1.0.1](https://github.com/lahaxearnaud/healthcheck-redis/compare/v1.0.0...v1.0.1) (2022-01-05)
 
 
