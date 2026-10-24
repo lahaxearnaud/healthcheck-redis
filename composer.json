@@ -18,7 +18,7 @@
     "require": {
         "php": "^8.2",
         "alahaxe/healthcheck-contracts": "^1.0",
-        "symfony/cache": "^6.0 || ^7.0"
+        "symfony/cache": "^6.0 || ^7.0 || ^8.0"
     },
     "require-dev": {
         "php-parallel-lint/php-parallel-lint": "^1.3",
