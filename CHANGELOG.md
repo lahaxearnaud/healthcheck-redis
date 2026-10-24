@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/lahaxearnaud/healthcheck-redis/compare/v2.0.1...v2.1.0) (2026-10-24)
+
+
+### Features
+
+* add Symfony 8 support ([df7ac61](https://github.com/lahaxearnaud/healthcheck-redis/commit/df7ac61b3f05b47cec1a60a48cd1c8d4fdbcbb3e))
+
 # [2.0.0](https://github.com/lahaxearnaud/healthcheck-redis/compare/v1.0.1...v2.0.0) (2023-11-29)
 
 
